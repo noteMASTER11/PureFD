@@ -1,4 +1,4 @@
-# Directory Structure Explorer
+# PureFD - Pure File Directory Explorer
 
 This repository contains a Python script that recursively scans a specified directory, computes file metadata (such as file size and SHA-1 hash), and generates an HTML file that displays the directory structure in a collapsible tree table format. The generated HTML file uses Bootstrap for styling and jQuery along with the jQuery TreeTable plugin for interactive functionality, including sorting columns and toggling directory expansion.
 
